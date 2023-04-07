@@ -1,5 +1,5 @@
 # US-Small-Business-Administration-SBA-Loans-Approval-Denial-Kaggle-Dataset-
-Applied Machine Learning Coursework Project
+Applied Machine Learning Individual Coursework Project
 
 • Performed extensive data cleanup on a large dataset of 809247*21, improving data quality and eliminating missing values and nulls.
 
